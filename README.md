@@ -1,7 +1,4 @@
 # Exp3:Correlation and regression for data analysis
-# Name:Ragasudha R
-# Referance number:24900684
-# Date:26.10.2024
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -23,9 +20,11 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program 
+
+Developed by : SHARVESHWARAN M
+
+Register number : 24001970
 ```
-Developed by : Ragasudha R
-Register number : 24900684
 import numpy as np
 import math
 import matplotlib.pyplot as plt
